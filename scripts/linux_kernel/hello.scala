@@ -4,5 +4,5 @@
 // GITHUB: https://github.com/navispeed
 
 object  Mail extends App {
-    println("Hello World");
+    println("Hello Worlsdfasdfd");
 }
